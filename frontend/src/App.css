@@ -1,0 +1,27 @@
+.productContainer {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 25% 25% 25%;
+}
+.productItem{
+    border: 1px solid black;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 200px;
+}
+
+.productItem img {
+  width: 80%;
+  margin-bottom: 20px;
+}
+.asd{
+  padding-top:20px;
+}
+.asd2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

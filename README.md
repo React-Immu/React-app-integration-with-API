@@ -1,0 +1,1 @@
+To run this exercise: open terminals for both backend and frontend. Backend should start with 'node index.js' command. Use 'npm start' to frontend.
